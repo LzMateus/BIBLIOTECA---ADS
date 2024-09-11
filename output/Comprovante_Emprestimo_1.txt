@@ -1,0 +1,15 @@
+========================================
+       COMPROVANTE DE EMPRESTIMO        
+========================================
+ID do Empréstimo: 1
+Nome do Sócio: mateus
+Tipo de Sócio: Premium
+Livros Emprestados:
+- Título: senhor dos aneis (ID Exemplar: 1)
+Data de Empréstimo: 10092013
+Data Prevista de Devolução: 15102024
+
+----------------------------------------
+___________________________________
+                      Assinatura do Sócio
+========================================
